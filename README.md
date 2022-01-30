@@ -1,2 +1,2 @@
 # typo3-core-dotfiles
-Dotfiles for TYPO3 Core Contribution with Gitpod
+Dotfiles for TYPO3 Core contribution with Gitpod
