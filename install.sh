@@ -1,7 +1,6 @@
 #!/usr/bin/bash
 
 brew install drud/ddev/ddev
-ddev start
 
 # Setup SSH key
 #ssh-keyscan review.typo3.org >> "${HOME}/.ssh/known_hosts"
