@@ -1,4 +1,4 @@
-#!/usr/bin/bash -ieu
+#!/usr/bin/bash
 
 _projects=(
     https://github.com/TYPO3/typo3/
